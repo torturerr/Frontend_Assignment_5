@@ -16,14 +16,17 @@ Part 1: Profile Object, Data Types & Arithmetic
 Task 1: Created "userProfile" object with properties: "name", "birthYear", "isDeveloper", and "hobbies".
 Task 2: Dynamically calculated age and total months; logged data to console and displayed it on the webpage.
 
+<img width="835" height="480" alt="image" src="https://github.com/user-attachments/assets/cb4cb4bb-23e2-4cfa-aa2c-0ff01dcc5494" />
 
 
 Part 2: Form Input & Event Responses
 Task 3: Set up form inputs for Username and Birth Year with an update button.
 Task 4: Attached event listener to capture values, validate them, and mutate the "userProfile" object.
 
+<img width="788" height="427" alt="image" src="https://github.com/user-attachments/assets/284cf6c5-a0f1-4753-81c1-412b02cf105a" />
 
 
 Part 3: DOM List Manipulation
 Task 5: Rendered hobbies list dynamically. Created interactive "Add Item" and "Remove Item" controls manipulating the DOM tree ("createElement", "appendChild", "removeChild").
 
+<img width="780" height="391" alt="image" src="https://github.com/user-attachments/assets/cdd768f5-27ac-4777-bbb2-87e2e4ba88d2" />
